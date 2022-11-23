@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehaadnekar&label=Profile%20views&color=0e75b6&style=flat" alt="nehaadnekar" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 📫 How to reach me **adnekarneha@gmail.com**
 
